@@ -1,0 +1,16 @@
+body {
+  
+  font-family: arial;
+  text-align: center;
+  font-size: 5em;
+}
+
+.answer li {
+   list-style: none;
+}
+
+.text {
+
+  height: 200;
+  width: 200;
+}
